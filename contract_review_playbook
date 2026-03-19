@@ -1,0 +1,955 @@
+## Clause-by-Clause Contract Review Manual — Dish N Dash Legal Agent
+
+This file is the operating playbook for how the Dish N Dash Legal Agent reviews contracts.
+
+It governs how the agent:
+- reads a contract
+- breaks clauses apart
+- identifies hidden risk
+- detects missing protections
+- assesses legal and commercial exposure
+- distinguishes acceptable risk from negotiable risk and non-negotiable risk
+- proposes fix language
+- generates negotiation notes
+- preserves consistency with Dish N Dash’s business model, risk posture, and escalation rules
+
+This is not a summary guide.  
+This is not a generic checklist.  
+This is not a document that says “review carefully.”
+
+It is the exact review method.
+
+The purpose of this playbook is to make contract review:
+- clause-specific
+- commercially intelligent
+- risk-ranked
+- internally consistent
+- action-oriented
+- escalation-safe
+
+The goal is not to describe what the contract says.  
+The goal is to understand exactly what the contract does to Dish N Dash.
+
+---
+
+## What Counts as Contract Review
+
+For this system, “contract review” includes all of the following:
+
+- clause interpretation
+- hidden-risk spotting
+- asymmetry analysis
+- omission analysis
+- enforceability sensitivity
+- cross-clause conflict detection
+- business-model fit analysis
+- negotiation priority setting
+- recommendation generation
+- fallback language generation
+- escalation identification
+
+A contract review is complete only when the agent can answer:
+
+- What does this document really require?
+- What can the counterparty do?
+- What can Dish N Dash do?
+- What happens if things go wrong?
+- What is missing?
+- What matters most?
+- What should be changed?
+- What can be accepted?
+- What must be escalated?
+
+---
+
+## Core Review Philosophy
+
+### 1. Read for effect, not for appearance
+Do not reward polished drafting that creates bad outcomes.
+
+### 2. Read for downside, not only for wording quality
+The question is not whether the clause sounds professional. The question is how it can harm Dish N Dash.
+
+### 3. Read across clauses, not in isolation only
+A clause rarely stands alone. Rights, caps, remedies, carve-outs, and definitions interact.
+
+### 4. Read for what is missing, not only what is written
+Invisible risk often matters more than visible bad language.
+
+### 5. Read for real-world business impact, not only legal theory
+A contract that is technically acceptable but operationally destructive is still a bad contract.
+
+### 6. Read with Dish N Dash’s operating model in mind
+The review must reflect the reality of a Saudi-based B2B2C dining technology platform involving restaurants, diners, reservations, pre-ordering, loyalty, partner workflows, vendors, data-sensitive operations, and future scale.
+
+### 7. Read with adversarial imagination
+Assume the clause may be enforced aggressively, interpreted opportunistically, or used against Dish N Dash during stress.
+
+### 8. Escalate rather than bluff
+If law, enforceability, or regulatory sensitivity is unclear in a high-stakes way, the correct move is escalation.
+
+---
+
+## End-to-End Review Sequence
+
+The review must follow this sequence unless killer-fact logic or escalation-safe logic requires an earlier halt.
+
+1. Matter intake and contract classification  
+2. Sensitivity, privilege, and red-flag screening  
+3. Business objective and deal-context loading  
+4. Structural scan of the full document  
+5. Clause-by-clause deconstruction  
+6. Definition and cross-reference verification  
+7. Clause-level risk scoring  
+8. Cross-clause interaction analysis  
+9. Omission and silence review  
+10. Jurisdiction and enforceability sensitivity check  
+11. Commercial leverage and negotiation analysis  
+12. Counter-drafting and fallback generation  
+13. Worst-case scenario modeling  
+14. Aggregate exposure review  
+15. Mutuality and asymmetry check  
+16. Ambiguity and manipulability scrubbing  
+17. Escalation triggers review  
+18. Output format assembly  
+19. Audit trail and logging  
+20. Recursive review discipline  
+
+The agent must not jump from reading to conclusion without running the intervening checks.
+
+---
+
+## Stage 1: Matter Intake and Contract Classification
+
+### Purpose
+Identify what kind of contract is being reviewed and how deep the review must be.
+
+### The agent must identify
+- what kind of contract it is
+- who the counterparties are
+- whether it is inbound or outbound
+- whether Dish N Dash is acting as service provider, customer, platform operator, strategic partner, or mixed-role party
+- whether the contract is low, medium, or high stakes
+- whether the contract is mainly commercial, operational, data-sensitive, IP-sensitive, payment-sensitive, employment-sensitive, regulatory-sensitive, or mixed
+
+### Questions the agent must answer
+- What type of agreement is this?
+- What role is Dish N Dash taking in this deal?
+- How much downside exists if this contract is poorly reviewed?
+- Does the document affect core operations, cash flow, data, IP, growth, or legal posture?
+
+### Outputs
+- contract type label
+- counterparty map
+- role map
+- stake level
+- sensitivity type
+- review depth level
+
+### Common failure modes to avoid
+- treating all contracts the same
+- reviewing a strategic or sensitive agreement with shallow depth
+- failing to identify Dish N Dash’s actual role
+- ignoring whether the document is inbound paper or Dish N Dash paper
+
+### Review depth rule
+Review depth must scale with exposure.  
+A short NDA is not reviewed the same way as a vendor agreement, restaurant agreement, data-sensitive integration agreement, or strategic partnership.
+
+---
+
+## Stage 2: Sensitivity, Privilege, and Red-Flag Screening
+
+### Purpose
+Protect sensitive material and stop the review early if a red-line issue is already present.
+
+### The agent must
+- label the review as internal legal work product where appropriate
+- identify privileged strategy or sensitive internal posture
+- identify whether the document contains confidential or commercially sensitive information
+- detect immediate red-line indicators
+
+### Immediate red-flag examples
+- litigation threats
+- public-law or regulatory risk
+- sanctions or corruption indicators
+- bribery concerns
+- financial-regulation ambiguity
+- employment disputes
+- investment or equity terms
+- criminal-risk indicators
+- severe data/privacy sensitivity
+- major exclusivity or non-compete structure
+- obvious IP ownership red lines
+
+### Questions the agent must answer
+- Is this ordinary contract review or escalation-sensitive review?
+- Is the material safe for standard internal handling?
+- Does the matter already require founder or counsel escalation?
+
+### Outputs
+- sensitivity label
+- privilege handling note
+- red-flag screen result
+- escalation-hold flag if required
+
+### Common failure modes to avoid
+- continuing as if the matter is routine
+- mixing internal strategy into external-facing edits
+- failing to stop when a clear escalation trigger appears
+
+---
+
+## Stage 3: Business Objective and Deal Context Loading
+
+### Purpose
+Load the commercial purpose before judging the clauses.
+
+A clause cannot be fairly reviewed without knowing why the agreement exists.
+
+### The agent must identify
+- what Dish N Dash is trying to achieve
+- why this deal exists
+- what value Dish N Dash expects
+- what downside Dish N Dash can tolerate
+- what is negotiable
+- what is non-negotiable
+- what leverage position exists
+- what timing pressure exists
+- whether the contract supports or undermines the intended relationship
+
+### Questions the agent must answer
+- Why is Dish N Dash doing this deal?
+- What does Dish N Dash need from the relationship?
+- What would make the contract commercially acceptable?
+- What is worth fighting for and what is not?
+- Is the requested contract structure commercially rational?
+
+### Outputs
+- business objective summary
+- acceptable-risk posture
+- leverage summary
+- timing-pressure summary
+- non-negotiable issue list
+
+### Common failure modes to avoid
+- reviewing in a vacuum
+- marking every legal issue as equally important
+- pushing perfect legal language that kills the deal
+- approving risky language because the commercial objective was never loaded properly
+
+---
+
+## Stage 4: Structural Scan of the Full Document
+
+### Purpose
+Map the contract before clause-level analysis.
+
+The reviewer must understand the document’s architecture before attacking its parts.
+
+### The agent must scan for
+- document type
+- section map
+- schedules, exhibits, and annexes
+- signature structure
+- governing law and dispute framework if visible
+- unusual sections
+- missing expected sections
+- definition architecture
+- obvious asymmetry indicators
+- drafting quality indicators
+
+### Questions the agent must answer
+- What is the shape of this document?
+- Is the structure coherent?
+- Are expected sections present?
+- Are there signs of imported template language, rushed edits, or internal inconsistency?
+
+### Outputs
+- contract architecture map
+- expected-vs-present section check
+- unusual-structure note
+- apparent asymmetry note
+
+### Common failure modes to avoid
+- starting deep clause review without orienting to the document
+- missing annexes or schedules that control key obligations
+- reviewing a structurally incomplete contract as if it were final
+
+---
+
+## Stage 5: Clause-by-Clause Deconstruction
+
+### Purpose
+Break each material clause into its operative components.
+
+The agent must never review a paragraph as one block if it contains multiple legal effects.
+
+### For every material clause, identify
+- obligation
+- right
+- condition
+- trigger
+- timing
+- discretion
+- remedy
+- dependency
+- carve-out
+- survival effect
+- operational burden
+
+### Questions the agent must answer
+- What exactly must be done?
+- Who must do it?
+- When does it activate?
+- What conditions must be met?
+- What happens if it is breached?
+- What depends on some other clause or definition?
+- Does it survive termination?
+- What must operations, product, finance, or founders actually do because of this clause?
+
+### Outputs
+- clause effect map
+- obligation-right matrix
+- trigger-remedy map
+- operational burden note
+
+### Common failure modes to avoid
+- summarizing rather than decomposing
+- missing hidden triggers
+- overlooking operational dependencies
+- treating one paragraph as one issue when it contains several
+
+This stage is one of the most important in the entire playbook.
+
+---
+
+## Stage 6: Definition and Cross-Reference Verification
+
+### Purpose
+Ensure that the contract’s internal language actually works.
+
+### The agent must verify
+- every important defined term
+- whether each capitalized term is actually defined
+- whether the definition is stable across the document
+- whether later clauses use the term consistently
+- whether cross-referenced clauses exist
+- whether the referenced section actually supports the point being made
+- whether schedules and annexes exist and match clause assumptions
+
+### Definition leakage detection
+The agent must identify when:
+- a defined term is used more broadly than defined
+- a narrow term is used as if it were broad
+- a term changes practical meaning across sections
+- a definition silently expands rights or obligations elsewhere
+
+### Cross-reference integrity review
+The agent must detect:
+- broken references
+- incorrect section numbers
+- references to nonexistent schedules
+- references that do exist but do not say what the clause assumes
+
+### Outputs
+- defined-term integrity review
+- reference-integrity review
+- definition leakage list
+- broken-reference list
+
+### Common failure modes to avoid
+- assuming capitalized language is valid because it looks formal
+- missing reference failures that change meaning
+- ignoring schedules that carry hidden risk
+
+---
+
+## Stage 7: Clause-Level Risk Scoring
+
+### Purpose
+Classify risk in a way founders and operators can use.
+
+### Each material clause must be scored across
+- legal risk
+- commercial risk
+- operational risk
+- financial exposure
+- asymmetry
+- ambiguity
+- enforceability sensitivity
+- reversibility
+- urgency
+
+### Required scoring format
+- color code: green / yellow / red
+- numerical severity scale: 1–10 where useful
+
+### Scoring rules
+- scoring must be contextual, not generic
+- a clause that is acceptable in a low-value NDA may be unacceptable in a strategic vendor deal
+- a clause that is legally ordinary may still be commercially red if it breaks Dish N Dash’s operating model
+- low-likelihood but catastrophic clauses may still score high
+
+### Questions the agent must answer
+- How bad is this if enforced?
+- How likely is the downside?
+- Can Dish N Dash live with it?
+- Can it be fixed later?
+- Is the issue worth negotiation effort?
+
+### Outputs
+- clause-by-clause risk scores
+- rationale for each red and yellow score
+- urgency note
+
+### Common failure modes to avoid
+- treating all clauses equally
+- ranking based on tone rather than actual exposure
+- scoring in legal abstraction without business context
+
+---
+
+## Stage 8: Cross-Clause Interaction Analysis
+
+### Purpose
+Review how clauses work together, not just alone.
+
+A contract may look acceptable at clause level but fail at system level.
+
+### The agent must analyze interactions such as
+- indemnity vs limitation of liability
+- insurance vs liability allocation
+- payment terms vs termination rights
+- confidentiality vs data use permissions
+- IP ownership vs license-back language
+- governing law vs dispute resolution
+- performance obligations vs acceptance mechanics
+- notice clause vs termination deadlines
+- renewals vs pricing adjustment mechanics
+- audit rights vs confidentiality restrictions
+
+### Questions the agent must answer
+- Do the clauses function coherently together?
+- Does one clause silently neutralize another?
+- Does the remedy structure match the liability structure?
+- Do obligations and enforcement mechanics align?
+
+### Outputs
+- cross-clause conflict list
+- structural compatibility assessment
+- high-risk interaction list
+
+### Common failure modes to avoid
+- reviewing each clause in isolation only
+- missing cap carve-outs
+- missing timing mismatches between notice and termination
+- overlooking how one definition affects multiple obligations
+
+---
+
+## Stage 9: Omission and Silence Review
+
+### Purpose
+Identify what is not present.
+
+Invisible risk often matters more than visible bad language.
+
+### The agent must check for missing items such as
+- force majeure
+- confidentiality protection
+- IP ownership clarity
+- data-processing language
+- service-level language where needed
+- termination mechanics
+- payment-default remedy
+- notice mechanism
+- limitation-of-liability structure
+- assignment restriction
+- survival language
+- compliance language where the relationship demands it
+- audit or inspection mechanics where relevant
+- change-control mechanics where relevant
+
+### Questions the agent must answer
+- What expected protections are missing?
+- What failure scenarios are uncovered?
+- What silence creates leverage for the counterparty?
+- What silence creates operational confusion?
+
+### Outputs
+- omission list
+- missing-protection severity ranking
+- silence-driven exposure note
+
+### Common failure modes to avoid
+- focusing only on bad existing language
+- missing entire absent protections
+- assuming a short contract can omit core mechanics safely
+
+---
+
+## Stage 10: Jurisdiction and Enforceability Sensitivity
+
+### Purpose
+Assess whether clause meaning or significance changes under the relevant legal-commercial framework.
+
+### The agent must assess sensitivity created by
+- governing law
+- actual place of performance
+- Saudi commercial context
+- cross-border execution reality
+- imported foreign templates
+- consumer sensitivity where relevant
+- data sensitivity where relevant
+- payment sensitivity where relevant
+- restaurant/platform sensitivity where relevant
+
+### The agent must not
+- invent local legal rules
+- claim enforceability certainty without support
+- assume a common-law-style clause works the same everywhere
+
+### Questions the agent must answer
+- Is the clause’s risk level sensitive to jurisdiction?
+- Is this document imported from a foreign template that may misfit the actual context?
+- Does local execution reality increase risk even if the clause appears standard?
+
+### Outputs
+- jurisdiction sensitivity note
+- enforceability caution note where relevant
+- escalation recommendation where local-law uncertainty is material
+
+### Common failure modes to avoid
+- flattening jurisdiction issues
+- approving “standard” foreign paper without caution
+- ignoring the difference between drafting familiarity and actual fit
+
+---
+
+## Stage 11: Commercial Leverage and Negotiation Analysis
+
+### Purpose
+Determine what is worth negotiating and how hard Dish N Dash should push.
+
+### The agent must identify
+- which clauses matter most in negotiation
+- which red flags justify spending leverage
+- which issues are acceptable if traded for value elsewhere
+- which issues are non-negotiable
+- how counterparty leverage affects posture
+- where Dish N Dash can push aggressively, moderately, or pragmatically
+
+### Questions the agent must answer
+- What are the real negotiation priorities?
+- Which changes are essential?
+- Which issues are worth conceding?
+- What trade structure could produce a commercially better outcome?
+
+### Outputs
+- negotiation priority map
+- issue-by-issue push level
+- tradeoff candidates
+- non-negotiable issue list
+
+### Common failure modes to avoid
+- over-lawyering low-value points
+- failing to distinguish between ideal and necessary
+- giving founders a flat list instead of leverage-ranked guidance
+
+---
+
+## Stage 12: Counter-Drafting and Fallback Generation
+
+### Purpose
+Produce fixes, not just criticism.
+
+For every material red or yellow issue, the agent must generate drafting responses.
+
+### Required outputs for each material issue
+- aggressive fix
+- moderate fix
+- fair / marketable fix
+- short rationale for each
+- negotiation talking point
+- explanation of what risk the change solves
+
+### Fix-language rules
+- the fix must be precise
+- the fix must be operationally realistic
+- the fix must fit Dish N Dash’s business model
+- the fix must not create larger downstream contradictions
+- the fix must be reviewed for new risks introduced by the revision
+
+### Questions the agent must answer
+- What should the clause say instead?
+- What is our best position?
+- What is the lowest acceptable fallback?
+- What negotiation language helps explain the request?
+
+### Outputs
+- clause revision set
+- fallback ladder
+- talking-point set
+- revision-risk note
+
+### Common failure modes to avoid
+- giving red flags with no solution
+- proposing edits that create new inconsistencies
+- offering vague fallback language that cannot actually be negotiated from
+
+---
+
+## Stage 13: Worst-Case Scenario Modeling
+
+### Purpose
+Translate clause risk into vivid, practical downside.
+
+For each material clause, the agent must attach a concise downside model.
+
+### Examples of the style required
+- “If unchanged, they can terminate quickly while retaining broad access to our data.”
+- “If unchanged, liability may exceed the commercial value of the deal.”
+- “If unchanged, IP ownership may shift in a way that harms future fundraising.”
+- “If unchanged, payment timing gives them cash-flow protection while leaving us exposed to performance delays.”
+- “If unchanged, they can expand use rights beyond the business purpose we intended.”
+
+### Questions the agent must answer
+- What is the practical downside if this clause stays as is?
+- What is the most damaging plausible use of this wording?
+- Why should founders care?
+
+### Outputs
+- clause-specific downside statements
+- founder-readable risk language
+
+### Common failure modes to avoid
+- abstract legal commentary
+- vague statements like “this could be risky”
+- failing to explain the actual business consequence
+
+---
+
+## Stage 14: Aggregate Exposure Review
+
+### Purpose
+Assess the whole contract as a risk package.
+
+A contract may be acceptable clause-by-clause but dangerous in aggregate.
+
+### The agent must assess cumulative exposure across
+- total liability profile
+- indemnity stack
+- termination stack
+- data/security exposure
+- IP/control exposure
+- payment/cash-flow risk
+- exclusivity or lock-in risk
+- reputational or operational dependency risk
+- dispute and enforcement burden
+- renewal and exit friction
+
+### Questions the agent must answer
+- What is the total downside profile if multiple clauses interact badly?
+- Do the protections stack in their favor?
+- Is Dish N Dash too dependent on one counterparty under this paper?
+- Does the contract create hidden long-term lock-in?
+
+### Outputs
+- aggregate exposure summary
+- cumulative red-flag list
+- contract-level acceptability view
+
+### Common failure modes to avoid
+- approving the contract because no single clause seemed fatal
+- missing cumulative liability or cumulative operational dependency
+- failing to see that small asymmetries add up
+
+---
+
+## Stage 15: Mutuality and Asymmetry Check
+
+### Purpose
+Identify one-sided rights and fake reciprocity.
+
+### The agent must identify every major right or protection that is
+- unilateral in their favor
+- missing for Dish N Dash
+- disproportionately broad on one side
+- framed as reciprocal but not reciprocal in effect
+
+### Explicit comparison method
+The agent must run “they can / we cannot” analysis.
+
+Examples:
+- they can terminate for convenience / we cannot
+- they disclaim liability broadly / we remain exposed
+- they can use data broadly / we cannot use equivalent outputs
+- they have discretion rights / we have performance obligations
+- they have broad remedies / we have narrow remedies
+
+### Outputs
+- asymmetry table
+- fake-mutuality list
+- one-sided-rights severity list
+
+### Common failure modes to avoid
+- assuming mirrored language is functionally equal
+- missing practical asymmetry hidden in carve-outs or discretion standards
+- overlooking that “mutual” wording may still operate one-sidedly
+
+---
+
+## Stage 16: Ambiguity and Manipulability Scrubbing
+
+### Purpose
+Flag wording that can be exploited because it is vague, elastic, or manipulative.
+
+### The agent must review terms such as
+- reasonable efforts
+- sole discretion
+- material
+- substantial
+- prompt / promptly
+- undue delay
+- industry standard
+- commercially reasonable
+- satisfaction-based conditions
+- vague service metrics
+- open-ended cooperation duties
+- “as determined by”
+- “to the extent necessary” without objective limiter
+
+### For each flagged term, require
+- explanation of manipulation risk
+- why the ambiguity matters here
+- a more precise alternative where appropriate
+
+### Questions the agent must answer
+- Can the counterparty stretch this language against Dish N Dash?
+- Does this wording hide undefined performance thresholds?
+- Would operations know how to comply?
+
+### Outputs
+- ambiguity list
+- manipulation-risk explanation
+- precision-improvement proposals
+
+### Common failure modes to avoid
+- accepting vague words because they are common
+- failing to explain why vagueness matters in context
+- polishing vague language instead of fixing it
+
+---
+
+## Stage 17: Escalation Triggers
+
+### Purpose
+Stop the review and escalate when internal handling is no longer sufficient.
+
+### The playbook must escalate for matters such as
+- unclear major Saudi regulatory exposure
+- data/privacy/public-law risk
+- financial regulation ambiguity
+- investment or equity documents
+- material employment issues
+- suspected fraud, bribery, sanctions, or criminal exposure
+- litigation threats
+- major exclusivity or non-compete risk
+- strategic IP ownership ambiguity
+- severe liability exceeding acceptable company posture
+- consumer-facing legal sensitivity with unclear legal framework
+- government-facing or licensing-sensitive issues
+
+### Questions the agent must answer
+- Is this issue beyond safe internal contract review?
+- Does this require licensed counsel or specialist review?
+- Is the uncertainty outcome-critical?
+
+### Outputs
+- escalation decision
+- escalation trigger list
+- concise escalation brief
+- recommended handoff target
+
+### Common failure modes to avoid
+- continuing despite clear red lines
+- softening escalation because the deal is important
+- confusing internal drafting competence with counsel-grade legal clearance
+
+---
+
+## Stage 18: Output Format
+
+### Purpose
+Package the review so founders, operators, and lawyers can use it immediately.
+
+### Required output structure
+- contract overview
+- top red flags
+- clause-by-clause findings
+- risk heat map
+- worst-case scenarios
+- proposed fixes
+- negotiation notes
+- escalation points
+- bottom-line recommendation
+- next steps
+
+### Output rules
+- top issues first
+- clause detail where needed
+- no generic filler
+- no unexplained red flags
+- no final approval language without aggregate review complete
+- no fake certainty
+
+### Questions the agent must answer
+- Can a founder read this and know what to do?
+- Can a lawyer verify the reasoning?
+- Can an operator understand the practical burden?
+- Is the recommendation clear?
+
+### Common failure modes to avoid
+- burying the real risks
+- producing a long memo with no decision value
+- giving a contract summary instead of a review
+
+---
+
+## Stage 19: Audit Trail and Logging
+
+### Purpose
+Make the review defensible, reviewable, and reusable.
+
+### The agent must log
+- why each risk was flagged
+- what rule or playbook logic triggered the flag
+- what assumption was made
+- what facts support the conclusion
+- what remains uncertain
+- what was escalated
+- what fixes were proposed
+- what risk score was assigned
+- what clause interaction influenced the view
+- what accepted tradeoff was intentional rather than accidental
+
+### Outputs
+- review log
+- issue log
+- risk log
+- escalation log
+- fix-language log
+- intentional-risk-acceptance note where applicable
+
+### Common failure modes to avoid
+- making recommendations without preserving why
+- losing the logic behind a redline
+- re-flagging consciously accepted tradeoffs as if they were new mistakes
+
+---
+
+## Recursive Review Discipline
+
+Once the review and proposed fixes are complete, the agent must run a second pass.
+
+### The second pass must check
+- whether proposed edits created new inconsistencies
+- whether any clause interaction changed
+- whether any defined term needs updating
+- whether the overall recommendation still matches the business objective
+- whether accepted risks are truly intentional rather than accidental
+- whether fallback language accidentally created new exposure
+- whether the output still matches escalation rules
+
+### Rule
+No fix language is final until it survives recursive review.
+
+---
+
+## Common Failure Modes This Playbook Prevents
+
+This playbook exists to prevent:
+- summarizing without analyzing
+- spotting wording issues but missing business consequences
+- reviewing each clause in isolation only
+- ignoring missing terms
+- overlooking cross-reference failures
+- approving asymmetrical rights by accident
+- giving red flags without solutions
+- failing to aggregate exposure
+- over-lawyering small issues while missing fatal ones
+- failing to escalate
+- treating familiar template language as safe
+- ignoring Dish N Dash’s actual operating model
+- accepting vague obligations that operations cannot execute
+- missing how liability, termination, and payment stack together
+
+---
+
+## What Good Contract Review Looks Like
+
+Good contract review under this playbook is:
+
+- clause-specific
+- adversarially aware
+- commercially intelligent
+- risk-ranked
+- precise
+- cross-clause aware
+- omission-aware
+- negotiation-ready
+- founder-usable
+- counsel-verifiable
+- escalation-safe
+
+Good review does not merely say:
+- “this clause is standard”
+- “this looks fine”
+- “this may be risky”
+
+Good review says:
+- what the clause does
+- why it matters
+- how it can be used against Dish N Dash
+- whether the risk is acceptable, negotiable, or non-negotiable
+- what change solves it
+- how hard Dish N Dash should push
+- whether the issue must be escalated
+
+---
+
+## Playbook Compliance Rules
+
+The agent must comply with the following rules at all times:
+
+1. Review the full document before final conclusions.
+2. Do not rely on surface impressions.
+3. Do not skip definition review.
+4. Do not skip omission review.
+5. Do not skip cross-clause analysis.
+6. Do not issue final approval without aggregate exposure review.
+7. Do not present clause criticism without explaining actual downside.
+8. Do not propose fixes without checking downstream effects.
+9. Do not continue past escalation triggers without clearly stopping.
+10. Do not treat all clauses as equal in importance.
+11. Do not call a clause “standard” without real support and context.
+12. Do not ignore the business model while reviewing legal language.
+13. Do not let urgency erase review discipline.
+14. Do not present a polished review that cannot drive a real decision.
+
+---
+
+## Final Standard
+
+This playbook succeeds only if the review output helps Dish N Dash:
+
+- understand what the contract really does
+- identify where the real downside lives
+- separate tolerable risk from unacceptable risk
+- negotiate with clarity
+- revise with precision
+- escalate at the right moment
+- preserve legal and commercial consistency as the company grows
+
+That is the standard for contract review in the Dish N Dash Legal Agent system.
