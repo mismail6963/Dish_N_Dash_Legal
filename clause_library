@@ -1,0 +1,1321 @@
+## Reusable Drafting Engine — Dish N Dash Legal Agent
+
+This file is the reusable clause engine for the Dish N Dash Legal Agent.
+
+It is not a random bank of legal snippets.  
+It is not a copy-paste clause dump.  
+It is not a generic template file.
+
+It is the structured drafting library the system uses to:
+- create contract language
+- revise third-party paper
+- strengthen weak clauses
+- negotiate fallback positions
+- preserve drafting consistency across agreements
+- keep clause logic aligned with Dish N Dash’s business model, risk posture, and escalation rules
+
+This library exists to give the legal agent reusable, high-quality, modular drafting language for creating and revising contracts while preserving:
+- consistency
+- precision
+- negotiating flexibility
+- operational realism
+- clause-to-clause harmony
+- escalation safety
+
+The clause library is an execution asset. It is not free-floating text. Every clause in this file must be selected, adapted, and validated in context.
+
+---
+
+## Why a Clause Library Matters
+
+A strong clause library matters because it prevents the most common drafting failures in startup legal work:
+
+- ad hoc drafting under time pressure
+- inconsistent positions across agreements
+- weak fallback language when strong language gets rejected
+- generic boilerplate that does not fit the business model
+- revisions that solve one issue but create another
+- repeated renegotiation of already-solved legal positions
+- slow redrafting because every issue starts from zero
+- hidden drift in defined terms, payment logic, liability structure, or IP posture
+
+For Dish N Dash, this matters even more because the company operates across multiple legal-commercial surfaces at once:
+- restaurant onboarding
+- platform and marketplace-style terms
+- reservations and pre-ordering flows
+- loyalty and rewards logic
+- vendor and SaaS relationships
+- data-sensitive workflows
+- payment-sensitive workflows
+- analytics, branding, and content rights
+- partnership and integration agreements
+- internal governance and future financing preparation
+
+A disciplined clause library preserves legal memory, speeds up revision, improves negotiation readiness, and reduces reliance on generic templates that do not fit how Dish N Dash actually operates.
+
+---
+
+## Core Clause Philosophy
+
+### 1. Precision over pretty wording
+A clause must work, not merely sound sophisticated.
+
+### 2. Enforceable structure over decorative language
+Operative drafting matters more than polished phrasing.
+
+### 3. Business fit over generic market boilerplate
+A clause that looks familiar but misfits Dish N Dash’s operations is defective.
+
+### 4. Modular reuse over one-off improvisation
+Drafting quality improves when proven clause structures are reused deliberately.
+
+### 5. Active obligations over passive ambiguity
+Every material duty should have a clear actor, trigger, timing rule, and consequence.
+
+### 6. Fallback-ready drafting over all-or-nothing drafting
+The library must support negotiation ladders, not only ideal language.
+
+### 7. Internal consistency over isolated clause strength
+A strong clause that breaks the rest of the agreement is not strong drafting.
+
+### 8. Escalation over synthetic certainty
+Where jurisdictional, regulatory, or structural uncertainty is too high, the system must escalate rather than improvise.
+
+---
+
+## How to Read This Library
+
+Each clause entry in this library should follow a structured format. The goal is to make every clause reusable, explainable, and hard to misuse.
+
+### Required entry structure
+
+**Clause Name**  
+The clause family or specific clause title.
+
+**Purpose**  
+Why this clause exists.
+
+**When to Use**  
+The contract contexts where the clause belongs.
+
+**When Not to Use**  
+When the clause is unnecessary, too aggressive, or inappropriate.
+
+**Risk Mitigated**  
+What downside the clause is designed to block, reduce, or manage.
+
+**Related Clauses**  
+Other clauses that must be checked with it.
+
+**Required Definitions**  
+Capitalized terms or definitional architecture the clause depends on.
+
+**Variable Inputs**  
+Fields that must be completed carefully before use.
+
+**Tier A — Pro-Dish N Dash Version**  
+Strong-protection language for high leverage or high risk.
+
+**Tier B — Balanced / Market Version**  
+Commercially balanced language for normal posture.
+
+**Tier C — Protective-but-Negotiable Version**  
+Practical fallback language that preserves core structure while keeping deal momentum.
+
+**Fallback Sequence**  
+What concession path to follow if the strongest version is rejected.
+
+**Negotiation Talking Points**  
+Business-friendly explanation of why the clause matters.
+
+**Drafting Notes**  
+Technical instructions, formatting cautions, or implementation notes.
+
+**Cross-Clause Warnings**  
+What other clauses can silently undermine this one.
+
+**Escalation Notes**  
+When legal uncertainty, regulatory sensitivity, or structural risk requires counsel review.
+
+**Version Metadata**  
+Version number, status, last updated date, governing-context sensitivity, related files, and tracked acceptance notes where available.
+
+The clause library is only useful if the entry structure is followed rigorously.
+
+---
+
+## Clause Selection Logic
+
+The agent must not choose clause versions randomly.
+
+Clause selection must consider:
+
+- contract type
+- deal size
+- leverage position
+- risk tolerance
+- whether the paper is inbound or outbound
+- actual operational reality
+- data sensitivity
+- IP sensitivity
+- payment sensitivity
+- cross-border sensitivity
+- relationship importance
+- whether the clause should be aggressively protective, marketable, or relationship-preserving
+
+### Selection rules
+
+1. **Start with the business objective.**  
+   The clause must serve the actual deal purpose.
+
+2. **Check materiality.**  
+   The clause family should be chosen based on the downside it manages, not because it is commonly seen in templates.
+
+3. **Match leverage honestly.**  
+   Tier A language should not be used blindly where deal leverage is weak unless the risk justifies a hard line.
+
+4. **Match risk posture honestly.**  
+   High-risk issues should not be “softened” just to look cooperative.
+
+5. **Adjust for inbound vs outbound paper.**  
+   In outbound paper, the library may lead. In inbound paper, the library often serves as a redline and replacement engine.
+
+6. **Check business-model fit before clause insertion.**  
+   A clause that overcommits on service levels, data permissions, loyalty mechanics, or transition obligations can create operational damage.
+
+7. **Escalate if the clause family is legally or structurally sensitive beyond safe internal handling.**
+
+---
+
+## Tiering System
+
+The library uses three drafting intensities.
+
+### Tier A: Pro-Dish N Dash
+**Purpose:** Strong protection, strong leverage preservation, high-control posture.  
+**Use when:**  
+- outbound paper
+- high leverage
+- high-risk deal
+- strategic dependency
+- IP, data, liability, exclusivity, or payment exposure is material
+
+**Optimizes for:**  
+- downside containment
+- stronger rights
+- tighter controls
+- maximum clarity
+- stronger remedies
+
+**Tradeoffs:**  
+- more negotiation resistance
+- higher chance of redlines
+- may be too aggressive for smaller or relationship-sensitive deals
+
+**Risk of stepping down from Tier A:**  
+- increased ambiguity
+- weaker control rights
+- higher acceptance of downside
+- more dependence on cross-clause protections
+
+---
+
+### Tier B: Balanced / Market
+**Purpose:** Commercially marketable language that preserves meaningful protection without overreaching.  
+**Use when:**  
+- standard commercial posture
+- normal leverage
+- relationship matters
+- deal size does not justify maximal aggression
+- a fair but still protective structure is preferred
+
+**Optimizes for:**  
+- dealability
+- reasonable balance
+- durability in negotiation
+- preservation of core protections
+
+**Tradeoffs:**  
+- some rights or remedies may narrow
+- some discretion may be shared
+- some risk shifts from eliminated to managed
+
+**Risk of stepping down from Tier B:**  
+- increased dependency on negotiation context
+- greater exposure if other related clauses are also weakened
+
+---
+
+### Tier C: Protective-but-Negotiable
+**Purpose:** Practical fallback that keeps core protections alive while preserving deal momentum.  
+**Use when:**  
+- leverage is limited
+- the counterparty rejects stronger language
+- the issue matters but the deal must stay moving
+- the clause can be narrowed without breaking Dish N Dash’s red lines
+
+**Optimizes for:**  
+- minimum necessary structural protection
+- acceptability
+- relationship continuity
+- targeted risk reduction
+
+**Tradeoffs:**  
+- reduced control
+- narrower remedies
+- more reliance on other clauses and operational safeguards
+
+**Risk of Tier C:**  
+- acceptable only if core protections remain elsewhere
+- may require compensating strength in adjacent clauses
+- should not be used where it silently abandons a red-line protection
+
+---
+
+## Fallback Chain Logic
+
+Every major clause family must include fallback logic.
+
+Fallback is not random softening. It is strategic concession control.
+
+### Required fallback sequence
+
+1. Offer the strongest justified language first.
+2. If rejected, move to structured middle ground.
+3. If still rejected, preserve core protections while giving on secondary issues.
+4. Do not concede silently on anything that breaks Dish N Dash red lines.
+5. When stepping down a clause tier, check whether another related clause must be strengthened to compensate.
+
+### Fallback rules
+
+- never move from Tier A to Tier C without evaluating whether Tier B is sufficient
+- never concede more than one structural protection at the same time without aggregate exposure review
+- never use fallback language that preserves tone but loses legal function
+- never reduce one clause without checking its interaction with liability, termination, data, IP, payment, or dispute mechanics
+
+Fallback must preserve architecture, not just relationship optics.
+
+---
+
+## Drafting Discipline Rules
+
+These rules are non-negotiable across all clause families.
+
+### 1. Every obligation must have a clear actor
+No passive obligations without assigned responsibility.
+
+### 2. Every trigger must have a clear condition
+Rights should not activate through hidden or vague events.
+
+### 3. Every timing obligation should be measurable where possible
+Avoid vague timing unless intentionally chosen and controlled.
+
+### 4. Every remedy must match the obligation it protects
+Do not create remedies that are unworkable or misaligned with the underlying duty.
+
+### 5. Every exception must be clearly scoped
+Carve-outs must not swallow the rule unintentionally.
+
+### 6. Every capitalized term must be defined or linked to master definitions
+No floating defined terms.
+
+### 7. Every clause must be readable in isolation and coherent in the full agreement
+Draft locally, validate globally.
+
+### 8. No vague drafting because it “sounds legal”
+Legality-sounding vagueness is still weak drafting.
+
+### 9. Singular/plural logic must stay exact
+A clause must function correctly whether one party or multiple parties are involved.
+
+### 10. Punctuation is part of the legal structure
+Lists, carve-outs, qualifiers, and exceptions must be punctuated for interpretive clarity.
+
+---
+
+## Clause Families
+
+The library should maintain structured entries for the following clause families at minimum.
+
+### Core structural families
+- definitions
+- relationship of parties
+- entire agreement / amendment / waiver
+- survival
+
+### Commercial and operational families
+- scope of services / deliverables
+- payment terms
+- fees, commissions, and pricing adjustments
+- service levels / support
+- audit rights
+- notice
+
+### Protection and control families
+- confidentiality
+- data protection / data use
+- IP ownership
+- license grants
+- publicity / use of name and marks
+- assignment / change of control
+- exclusivity / non-compete sensitivity
+
+### Risk allocation families
+- warranties and disclaimers
+- indemnities
+- limitation of liability
+- force majeure
+- compliance with laws
+
+### Lifecycle and dispute families
+- term and termination
+- termination for convenience / cause
+- governing law / dispute resolution
+
+For each family, the library must provide:
+- reusable language
+- the full structured entry format
+- tiered versions
+- fallback logic
+- negotiation notes
+- cross-clause warnings
+- escalation notes where relevant
+
+---
+
+## Priority Clause Families for Dish N Dash
+
+The following clause families are especially important for Dish N Dash’s business model and should receive the most disciplined maintenance.
+
+### 1. Restaurant onboarding and operational obligations
+Dish N Dash depends on real-world performance by restaurants. Clauses must define onboarding duties, accuracy obligations, timing expectations, menu and pricing integrity, customer handling, cancellation handling, and operational cooperation clearly.
+
+### 2. Payment and commission mechanics
+The company’s revenue flows, settlement logic, commission structures, credits, refunds, timing, and payment-default consequences must be drafted precisely. Weak payment logic creates immediate business pain.
+
+### 3. Data handling and customer data use
+Dish N Dash operates around booking behavior, order behavior, diner-related workflows, analytics, and potentially sensitive usage data. Data permissions must be precise, scoped, and business-fit.
+
+### 4. IP ownership in software, content, analytics, and branding
+The library must preserve clear ownership and usage structure across platform features, integrations, analytics outputs, restaurant content, marketing materials, and brand assets.
+
+### 5. Vendor / SaaS dependency protection
+Third-party vendors, software tools, integration partners, or infrastructure providers can create severe operational dependency. Service, liability, transition, audit, and termination language must reflect that risk.
+
+### 6. Confidentiality and internal strategy protection
+Dish N Dash’s commercial plans, growth strategies, operating data, and internal legal posture need disciplined protection.
+
+### 7. Liability allocation in platform and service failures
+The company must avoid disproportionate liability relative to deal value, especially in vendor, restaurant, and platform-sensitive contexts.
+
+### 8. Termination and transition assistance
+If a relationship ends, Dish N Dash may need data return, migration support, operational continuity, or clean wind-down mechanics.
+
+### 9. Anti-assignment / change-of-control risks
+The company must manage transfer risk where a counterparty could offload obligations or where a change of control alters the deal profile.
+
+### 10. Use of Dish N Dash name, brand, data, and marketing assets
+Publicity and mark-use rights must be controlled carefully to prevent unauthorized use or implied endorsement.
+
+---
+
+## Variable Injection Rules
+
+Placeholders in this library are not decoration. They are decision points.
+
+### Variable categories
+
+#### 1. Simple fields
+Examples:
+- party names
+- effective date
+- payment date
+- territory
+- term length
+- notice address
+
+These must still be verified, not guessed.
+
+#### 2. Calculation-sensitive fields
+Examples:
+- commission percentages
+- revenue shares
+- minimum commitments
+- credits
+- penalties
+- cure periods
+- service levels
+- pricing adjustment formulas
+
+These require both drafting accuracy and commercial verification.
+
+#### 3. Logic-sensitive fields
+Examples:
+- definitions of customer data
+- scope of “Confidential Information”
+- who owns derivative analytics
+- transition assistance duration
+- exclusivity scope
+- termination rights tied to performance or breach
+- liability cap formulas and carve-outs
+
+These must not be filled mechanically. The agent must pause and verify business meaning before populating them.
+
+### Rules for variable injection
+- never guess a variable value
+- never fill a placeholder based on assumption unless explicitly labeled as an assumption
+- never use a variable that changes legal structure without checking its downstream clause effects
+- never insert calculations without validating the formula logic and business intent
+
+---
+
+## Defined-Term Lockdown
+
+This library must maintain strict defined-term discipline.
+
+### Rules
+- no capitalized term appears without definition support
+- no defined term is reused with altered meaning
+- drafting must check the master definitions architecture before insertion
+- synonyms must not silently replace defined terms
+- party references must remain exact
+- singular/plural treatment must remain exact
+
+### Defined-term discipline examples
+If the agreement defines “Customer Data,” do not later switch to “User Data,” “Platform Data,” or “Booking Data” unless each is intentionally distinguished and defined.
+
+If the agreement defines “Services,” do not use “Platform Services” or “Support Services” as if they were interchangeable unless the structure supports that distinction.
+
+Defined-term drift is a silent drafting failure and must be treated as such.
+
+---
+
+## Cross-Clause Harmony Rules
+
+Clause drafting cannot occur in isolation.
+
+### Required harmony checks
+- indemnity must not silently collapse or bypass liability caps unless intended
+- confidentiality carve-outs must align with data-use rights
+- IP language must align with license language
+- termination rights must align with payment consequences and survival
+- dispute language must align with governing law and notice rules
+- audit rights must not contradict confidentiality or privacy positions
+- force majeure must not nullify time-critical obligations unintentionally
+- commission logic must align with refund, chargeback, settlement, and reporting mechanics
+- service level language must align with remedies and disclaimer posture
+- assignment restrictions must align with change-of-control treatment
+
+### Harmony rule
+Any clause revision must trigger a related-clause check. Do not revise locally and assume the agreement remains globally coherent.
+
+---
+
+## Ambiguity Scrubbing Protocol
+
+The library must identify and eliminate weak language wherever precision is possible.
+
+### High-risk vague terms
+- reasonable
+- promptly
+- substantial
+- material, where undefined
+- commercially reasonable, where unbounded
+- as needed
+- satisfactory
+- appropriate
+- customary
+- best efforts
+- reasonable efforts
+
+### Required treatment
+For each weak term, the clause entry must provide one of the following:
+- a precise replacement
+- a defined standard
+- an instruction that business input is required before final drafting
+- an escalation note where precision is not possible safely
+
+### Ambiguity scrubbing rule
+Do not retain vague language simply because it is common. Keep it only when:
+- the ambiguity is deliberate
+- the risk is understood
+- the leverage context supports it
+- the ambiguity does not undermine enforcement or operations
+
+---
+
+## Protective Logic and Adversarial Drafting
+
+Every clause entry must reflect hostile-reading risk.
+
+The library must assume a counterparty, arbitrator, judge, or internal dispute reviewer may read the clause strictly, opportunistically, or against Dish N Dash where the wording allows it.
+
+### Each clause entry must address
+- common exploitation paths
+- what downside the clause blocks
+- what loopholes remain
+- what must be preserved in fallback form
+- how the clause behaves under breach, delay, insolvency, data incident, termination, assignment, or other stress
+
+### Protective logic rule
+A clause is not complete because it looks balanced. It must be stress-tested for how it behaves when the relationship goes wrong.
+
+---
+
+## Negotiation Notes
+
+Every major clause family must include human-usable negotiation notes.
+
+These notes should explain:
+- why Dish N Dash wants the clause
+- what business problem it solves
+- what moderate fallback can be offered
+- what should not be conceded
+- how to explain the clause without sounding combative or careless
+
+### Negotiation-note rule
+The best clause language still needs a practical explanation. Founders and operators must be able to defend the clause in business terms, not only legal terms.
+
+---
+
+## Risk Heat Guidance
+
+Each clause family must include guidance on strategic heat.
+
+### The library must flag when a clause version is:
+- too aggressive for the deal size
+- reasonable and marketable
+- too weak for the risk profile
+- likely to trigger escalation
+- acceptable only if another clause is strengthened elsewhere
+
+### Risk-heat rule
+Clause selection is not only about theoretical protection. It is also about:
+- leverage
+- relationship value
+- dependency level
+- urgency
+- counterparty sophistication
+- overall risk stack
+
+The clause library must help the agent draft strategically, not reflexively.
+
+---
+
+## Redline and Revision Logic
+
+This library must support revision of third-party paper, not only outbound drafting.
+
+### Each clause family should support redline use by providing
+- direct replacement language
+- concise rationale for the redline
+- explanation of what was dangerous in the original wording
+- preferred fallback if the first revision is rejected
+- notes on any related clause that must also be checked after revision
+
+### Redline rule
+A clause replacement is not complete unless the agent can also explain:
+- why the original wording was unsafe
+- what the revision changes
+- what fallback preserves the core protection if the preferred revision is rejected
+
+---
+
+## Versioning and Maintenance Metadata
+
+Each clause or clause-family entry must include metadata.
+
+### Required metadata fields
+- version number
+- last updated date
+- status
+- approved / provisional / escalate-before-use
+- governing-context sensitivity
+- related files
+- known negotiation outcomes or acceptance patterns where tracked
+
+### Status meanings
+- **Approved** — ready for normal internal use within scope
+- **Provisional** — usable with caution; still under refinement
+- **Escalate-before-use** — sensitive enough that clause use should be reviewed before deployment
+
+### Metadata rule
+Clauses must be maintained like controlled assets, not loose text fragments.
+
+---
+
+## Learning and Refinement Logic
+
+The clause library should evolve over time based on:
+- what language gets accepted
+- what language gets rejected
+- what language creates disputes
+- what language founders prefer
+- what outside counsel approves
+- what risks repeatedly arise in Dish N Dash contracts
+
+### Learning rule
+Learning improves the library. It does not override legal discipline.
+
+A clause that is often accepted is not automatically safe.  
+A clause founders prefer is not automatically strong.  
+A clause counsel once approved is not automatically right for every context.
+
+The library should become sharper over time, but never looser.
+
+---
+
+## Sample Entry Format
+
+Below is the required model template for clause entries.
+
+---
+
+### Clause Name
+`[Insert clause family or clause title]`
+
+**Purpose**  
+[Explain why this clause exists.]
+
+**When to Use**  
+[Explain the contract contexts where this clause is appropriate.]
+
+**When Not to Use**  
+[Explain when the clause is unnecessary, too aggressive, or contextually wrong.]
+
+**Risk Mitigated**  
+[Explain the downside this clause is intended to prevent or manage.]
+
+**Related Clauses**  
+- [Related clause 1]
+- [Related clause 2]
+- [Related clause 3]
+
+**Required Definitions**  
+- [Defined term 1]
+- [Defined term 2]
+- [Defined term 3]
+
+**Variable Inputs**  
+- `[PARTY_NAME]`
+- `[SERVICE_SCOPE]`
+- `[TERM_LENGTH]`
+- `[CURE_PERIOD]`
+- `[FEE_FORMULA]`
+- `[DATA_CATEGORY]`
+- `[ESCALATION_TRIGGER]`
+
+**Tier A — Pro-Dish N Dash Version**  
+[Insert strongest justified drafting language.]
+
+**Tier B — Balanced / Market Version**  
+[Insert commercially balanced drafting language.]
+
+**Tier C — Protective-but-Negotiable Version**  
+[Insert practical fallback language.]
+
+**Fallback Sequence**  
+1. Start with Tier A.  
+2. If rejected, offer Tier B.  
+3. If still rejected, move to Tier C only if core protections remain elsewhere.  
+4. If Tier C would break a red line, escalate instead of conceding.
+
+**Negotiation Talking Points**  
+- [Point 1]
+- [Point 2]
+- [Point 3]
+
+**Drafting Notes**  
+- [Technical note 1]
+- [Technical note 2]
+- [Formatting or definitional caution]
+
+**Cross-Clause Warnings**  
+- [Warning about interaction with liability]
+- [Warning about interaction with data/IP/termination/payment]
+- [Warning about defined-term drift]
+
+**Escalation Notes**  
+[Explain when this clause family needs counsel review, jurisdictional caution, or special handling.]
+
+**Version Metadata**  
+- Version: `[X.Y]`
+- Last Updated: `[YYYY-MM-DD]`
+- Status: `[Approved / Provisional / Escalate-before-use]`
+- Governing-Context Sensitivity: `[Low / Medium / High]`
+- Related Files: `[SYSTEM.md, REASONING_PROTOCOL.md, etc.]`
+- Acceptance Pattern Notes: `[if tracked]`
+
+---
+
+## Clause Family Guidance
+
+The following section defines how the main clause families should be handled in this library.
+
+### Definitions
+Definitions must be narrow enough to control risk and broad enough to capture intended scope. They must never be decorative. High-priority definitions often control the entire risk profile.
+
+### Scope of Services / Deliverables
+This family must state what is actually being provided, what is excluded, what dependencies exist, what assumptions apply, and how changes are handled.
+
+### Payment Terms
+This family must define timing, invoicing, settlement mechanics, withholding, disputes, default consequences, credits, and any fee dependencies.
+
+### Fees, Commissions, and Pricing Adjustments
+This family must be formula-safe. It must define base amounts, calculation methods, excluded amounts, reporting dependencies, audit support where needed, and adjustment triggers.
+
+### Confidentiality
+This family must define scope, permitted use, permitted disclosures, security expectations, survival period, return/destruction mechanics, and carve-outs carefully.
+
+### Data Protection / Data Use
+This family must separate ownership, access, permitted use, restrictions, deletion/return obligations, analytics rights, aggregation rights, and security obligations clearly.
+
+### IP Ownership
+This family must define who owns pre-existing IP, newly created IP, feedback, derivative outputs, and branded materials. It must be drafted with funding, product, and platform realities in mind.
+
+### License Grants
+This family must define scope, purpose, exclusivity, territory, sublicensing, transfer rights, revocation, and survival interaction.
+
+### Warranties and Disclaimers
+This family must match the actual service and risk profile. It should not create promises Dish N Dash cannot perform or accept disclaimers that destroy the commercial purpose.
+
+### Indemnities
+This family must define who indemnifies whom, for what categories of claims, under what procedures, with what exclusions, and how indemnity interacts with liability caps.
+
+### Limitation of Liability
+This family must define cap structure, excluded damages, cap carve-outs, and alignment with indemnity and confidentiality obligations.
+
+### Term and Termination
+This family must define term mechanics, renewal logic, termination triggers, cure periods, post-termination duties, payment consequences, data return/destruction, and transition support where necessary.
+
+### Termination for Convenience / Cause
+This family must distinguish voluntary exit from breach-based exit and ensure operational consequences are handled clearly.
+
+### Notice
+This family must define delivery methods, deemed receipt, addresses, and interaction with time-sensitive rights.
+
+### Assignment / Change of Control
+This family must control transfer risk, especially where counterparty identity matters operationally, commercially, or strategically.
+
+### Exclusivity / Non-Compete Sensitivity
+This family must be treated cautiously. It should clearly define scope, duration, territory, and prohibited conduct, and should escalate where risk is strategically significant.
+
+### Audit Rights
+This family must define who can audit what, when, how often, under what confidentiality constraints, and at whose cost.
+
+### Service Levels / Support
+This family must define measurable service obligations, exclusions, reporting, credits or remedies, and operational realism.
+
+### Force Majeure
+This family must define qualifying events, notice obligations, mitigation, suspension consequences, and termination rights if disruption continues.
+
+### Governing Law / Dispute Resolution
+This family must align with actual deal reality, notice mechanics, interim relief needs, and escalation posture.
+
+### Compliance with Laws
+This family must be specific enough to matter and not so broad that it creates hidden absolute obligations disconnected from the relationship.
+
+### Publicity / Use of Name and Marks
+This family must control announcement rights, logo use, case-study rights, approval mechanics, and brand misuse risk.
+
+### Survival
+This family must state what survives and avoid accidental survival gaps or overbroad survival that creates lingering obligations beyond business need.
+
+### Entire Agreement / Amendment / Waiver
+This family must preserve integration discipline and avoid informal amendment drift where the relationship is operationally complex.
+
+### Relationship of Parties
+This family must clarify independent contractor status or other intended relationship structure without misdescribing actual operational obligations.
+
+---
+
+## Priority Clause Families for Dish N Dash
+
+The clause families below should be treated as high-priority drafting assets.
+
+### Restaurant onboarding and operational obligations
+These clauses must define onboarding accuracy, operational readiness, menu updates, booking obligations, reservation handling, cancellation handling, diner communications where applicable, and service cooperation clearly.
+
+### Payment and commission mechanics
+These clauses must control:
+- who collects what
+- when funds move
+- how commissions are calculated
+- refund and chargeback consequences
+- reporting rights
+- reconciliation rights
+- timing and dispute process
+
+### Data handling and customer data use
+These clauses must distinguish:
+- customer-related data
+- platform analytics
+- restaurant-supplied content
+- operational data
+- aggregated/anonymized outputs
+- prohibited uses
+- retention and deletion obligations
+
+### IP ownership in software, content, analytics, and branding
+These clauses must protect:
+- Dish N Dash platform IP
+- software and product rights
+- API and integration outputs
+- brand assets
+- content use scope
+- analytics and derivative insights
+
+### Vendor / SaaS dependency protection
+These clauses should emphasize:
+- service continuity
+- transition support
+- data portability
+- assignment control
+- security obligations
+- measured service commitments
+- reasonable but real remedies
+
+### Confidentiality and internal strategy protection
+These clauses should guard:
+- founder strategy
+- pricing models
+- growth plans
+- operational playbooks
+- legal positions
+- internal analytics and partner data
+
+### Liability allocation in platform and service failures
+These clauses must keep liability proportional to real exposure and prevent open-ended operational or reputational liability from being imported casually.
+
+### Termination and transition assistance
+Where a vendor or partner relationship is operationally important, these clauses must define wind-down obligations, data return, support duration, knowledge-transfer obligations if needed, and exit payment logic.
+
+### Anti-assignment / change-of-control risks
+These clauses matter where the counterparty’s identity, capability, or ownership structure affects operational trust or business risk.
+
+### Use of Dish N Dash name, brand, data, and marketing assets
+These clauses must prevent uncontrolled use of the company’s identity or operational data in publicity or promotional channels.
+
+---
+
+## Variable Injection Rules
+
+### Core rule
+Placeholders must be filled only after the business meaning is verified.
+
+### Required placeholder behavior
+
+#### Simple variables
+Examples:
+- `[PARTY_NAME]`
+- `[EFFECTIVE_DATE]`
+- `[TERRITORY]`
+- `[TERM_MONTHS]`
+
+These still require verification against the deal and document structure.
+
+#### Calculation-sensitive variables
+Examples:
+- `[COMMISSION_PERCENTAGE]`
+- `[MINIMUM_MONTHLY_COMMITMENT]`
+- `[SERVICE_CREDIT_FORMULA]`
+- `[CURE_DAYS]`
+- `[REVENUE_SHARE_EXCLUSIONS]`
+
+These must not be inserted until the math and business intent are confirmed.
+
+#### Logic-sensitive variables
+Examples:
+- `[CUSTOMER_DATA_SCOPE]`
+- `[PERMITTED_ANALYTICS_USE]`
+- `[TERMINATION_FOR_CAUSE_TRIGGER]`
+- `[TRANSITION_ASSISTANCE_DURATION]`
+- `[ASSIGNMENT_CONSENT_STANDARD]`
+
+These require explicit reasoning before completion.
+
+### Never rules for variables
+- never guess
+- never backfill from vague memory
+- never populate a logic-sensitive field without checking downstream clause effects
+- never leave a placeholder unresolved in final-ready language
+
+---
+
+## Defined-Term Lockdown
+
+This clause library must operate under exact defined-term discipline.
+
+### Mandatory rules
+- no capitalized term without definitional support
+- no silent synonym replacement
+- no drift between singular and plural forms
+- no party shorthand that obscures the actual legal entity
+- no reuse of a defined term with altered scope
+- no clause insertion without checking whether the necessary definitions already exist
+
+### Drafting control rule
+If the clause requires a term that the document does not define, the drafter must either:
+- add the definition deliberately, or
+- rewrite the clause to fit existing definitions
+
+Undefined formal language is not sophistication. It is drafting failure.
+
+---
+
+## Cross-Clause Harmony Rules
+
+The library must assume every clause interacts with the rest of the agreement.
+
+### Mandatory harmony checks
+- indemnity vs limitation of liability
+- confidentiality vs data use
+- IP ownership vs license-back
+- termination vs payment consequences
+- termination vs survival
+- dispute language vs governing law
+- notice language vs cure periods and deadlines
+- audit rights vs confidentiality/data restrictions
+- force majeure vs strict timing obligations
+- service levels vs disclaimers and remedies
+- assignment vs change-of-control rights
+
+### Harmony rule
+No clause may be inserted or revised without checking whether it silently undermines a related clause.
+
+---
+
+## Ambiguity Scrubbing Protocol
+
+The library must actively remove weak language unless intentional and controlled.
+
+### Terms that require scrutiny
+- reasonable
+- promptly
+- substantial
+- material
+- commercially reasonable
+- as needed
+- satisfactory
+- appropriate
+- customary
+- best efforts
+- reasonable efforts
+
+### Required response
+For each such term, the clause entry should provide:
+- a precise substitute, or
+- a defined standard, or
+- a note that business input is required, or
+- an escalation note if precision cannot be supplied safely
+
+### Examples of preferred drafting moves
+- replace “promptly” with a stated number of business days where appropriate
+- replace undefined “material breach” with specific breach categories where appropriate
+- replace open-ended “reasonable efforts” with identified obligations where appropriate
+
+Precision must be improved where precision matters.
+
+---
+
+## Protective Logic and Adversarial Drafting
+
+Every clause entry must consider how a hostile counterparty would exploit weak wording.
+
+### Each clause entry should include
+- likely exploitation path
+- what the clause blocks
+- what it does not block
+- what must survive in fallback form
+- how it performs under stress:
+  - breach
+  - delay
+  - insolvency
+  - service failure
+  - data incident
+  - termination
+  - assignment
+  - dispute escalation
+
+### Adversarial drafting rule
+If the wording can be stretched against Dish N Dash in a likely way, the clause must be tightened or flagged.
+
+---
+
+## Negotiation Notes
+
+Each major clause family must include negotiation notes that a human can actually use.
+
+### Required contents
+- why Dish N Dash wants this clause
+- what business problem it solves
+- what moderate fallback is available
+- what should not be conceded
+- how to explain the clause in a calm commercial way
+
+### Negotiation-note style
+These notes should be:
+- direct
+- practical
+- non-theatrical
+- commercially literate
+- easy for founders and operators to repeat
+
+---
+
+## Risk Heat Guidance
+
+Each clause family must contain guidance on when the clause version is strategically appropriate.
+
+### Required heat labels
+- too aggressive for this deal size
+- reasonable and marketable
+- too weak for this risk profile
+- likely to trigger escalation
+- acceptable only with compensating strength elsewhere
+
+### Heat guidance rule
+The library must help the agent choose the right clause for the right moment, not merely the strongest clause available.
+
+---
+
+## Redline and Revision Logic
+
+This library must support revision of third-party paper.
+
+### Every major clause family should include
+- direct replacement language
+- concise rationale for the redline
+- explanation of what was dangerous in the original wording
+- preferred fallback if the first revision is rejected
+- notes on related clauses that must be checked after revision
+
+### Revision rule
+A redline is not complete unless the agent understands:
+- the defect in the original text
+- the structural purpose of the replacement
+- the fallback path if resistance appears
+- the downstream clause effects of the change
+
+---
+
+## Versioning and Maintenance Metadata
+
+Every clause or clause-family entry must include:
+
+- version number
+- last updated date
+- status
+- approved / provisional / escalate-before-use
+- governing-context sensitivity
+- related files
+- known negotiation outcomes or acceptance patterns where tracked
+
+### Metadata discipline
+This library must be maintained as an internal system asset. Language should not drift informally. Updates should reflect actual learning and actual approval history where available.
+
+---
+
+## Learning and Refinement Logic
+
+The clause library should evolve based on:
+- what language gets accepted
+- what language gets rejected
+- what language causes dispute or confusion
+- what founders prefer
+- what outside counsel approves
+- what recurring risks appear in Dish N Dash contracts
+
+### Learning rules
+- learn from outcomes
+- preserve what works
+- retire what repeatedly fails
+- note what requires counsel review
+- never let commercial convenience override structural safety
+
+This library should become sharper with use, but not looser.
+
+---
+
+## Sample Entry Format
+
+Use the following model for each real clause-family entry.
+
+### Clause Name
+`[Insert Clause Name]`
+
+**Purpose**  
+[State exactly what this clause protects or enables.]
+
+**When to Use**  
+[State the agreement types and conditions where it belongs.]
+
+**When Not to Use**  
+[State when it is unnecessary, too broad, or structurally wrong.]
+
+**Risk Mitigated**  
+[Describe the legal, commercial, operational, or financial risk.]
+
+**Related Clauses**  
+- [Clause A]
+- [Clause B]
+- [Clause C]
+
+**Required Definitions**  
+- [Definition 1]
+- [Definition 2]
+- [Definition 3]
+
+**Variable Inputs**  
+- `[PARTY_NAME]`
+- `[SERVICE_SCOPE]`
+- `[TERM_LENGTH]`
+- `[PAYMENT_FORMULA]`
+- `[DATA_SCOPE]`
+- `[CURE_PERIOD]`
+
+**Tier A — Pro-Dish N Dash Version**  
+[Insert strongest justified version.]
+
+**Tier B — Balanced / Market Version**  
+[Insert balanced version.]
+
+**Tier C — Protective-but-Negotiable Version**  
+[Insert practical fallback.]
+
+**Fallback Sequence**  
+1. Start with Tier A.  
+2. Move to Tier B if resistance is commercial but not structural.  
+3. Use Tier C only if core protections remain preserved.  
+4. Escalate if further weakening would break a red line.
+
+**Negotiation Talking Points**  
+- [Talking point 1]
+- [Talking point 2]
+- [Talking point 3]
+
+**Drafting Notes**  
+- [Formatting or syntax note]
+- [Variable completion note]
+- [Operational note]
+
+**Cross-Clause Warnings**  
+- [Interaction warning 1]
+- [Interaction warning 2]
+
+**Escalation Notes**  
+[State whether this clause family becomes escalation-sensitive in certain contexts.]
+
+**Version Metadata**  
+- Version: `[X.Y]`
+- Last Updated: `[YYYY-MM-DD]`
+- Status: `[Approved / Provisional / Escalate-before-use]`
+- Governing-Context Sensitivity: `[Low / Medium / High]`
+- Related Files: `[SYSTEM.md, REASONING_PROTOCOL.md, etc.]`
+- Acceptance Pattern Notes: `[If tracked]`
+
+---
+
+## Non-Negotiable Never Rules
+
+- Never use a clause without understanding its business purpose.
+- Never drop in generic template wording without checking business fit.
+- Never use undefined capitalized terms.
+- Never weaken one clause without checking downstream effects.
+- Never use vague timing or obligation language without reason.
+- Never assume “market” equals safe.
+- Never revise third-party paper without preserving clause interaction logic.
+- Never present fallback language that abandons core protections silently.
+- Never use clause language that creates operational duties Dish N Dash cannot actually perform.
+- Never finalize drafting without checking escalation triggers.
+- Never choose a tier only because it is easiest to get signed.
+- Never insert data, IP, payment, exclusivity, or liability language mechanically.
+- Never allow formatting or punctuation ambiguity to alter substantive meaning.
+
+---
+
+## What Good Clause Language Looks Like
+
+Good clause language in this system is:
+
+- precise
+- modular
+- internally consistent
+- readable
+- protective
+- commercially usable
+- negotiation-ready
+- stress-tested
+- linked to real risks
+- easy for founders to understand
+- easy for lawyers to verify
+
+Good clause language does not:
+- sound vague and impressive
+- hide accountability
+- create unintended dependencies
+- force impossible operations
+- drift from the business model
+- undermine adjacent clauses
+
+A good clause should tell a careful reader:
+- who does what
+- when
+- under what condition
+- with what consequence
+- with what boundary
+- in a way that remains coherent inside the full agreement
+
+---
+
+## How This File Works With the Rest of the System
+
+`CLAUSE_LIBRARY.md` is not a standalone drafting artifact. It works inside the broader Dish N Dash legal system.
+
+### With `SYSTEM.md`
+`SYSTEM.md` governs authority, hierarchy, scope, escalation boundaries, and overall behavior. The clause library must obey it.
+
+### With `REASONING_PROTOCOL.md`
+`REASONING_PROTOCOL.md` determines whether a clause is needed, what risk it addresses, and which tier fits the matter. The clause library executes that reasoning.
+
+### With `CONTRACT_REVIEW_PLAYBOOK.md`
+The review playbook identifies defective or risky language. The clause library supplies replacement language, fallback ladders, and negotiation-ready alternatives.
+
+### With `CONTRACT_DRAFTING_PLAYBOOK.md`
+The drafting playbook controls assembly, sequencing, document structure, and drafting workflow. The clause library provides the clause-level building blocks.
+
+### With `RISK_MATRIX.md`
+The risk matrix helps determine how aggressive or conservative the clause should be. The clause library should reflect that heat profile in tier selection.
+
+### With `ESCALATION_RULES.md`
+Where a clause family becomes legally sensitive, high-stakes, jurisdictionally unclear, or structurally dangerous, the escalation rules override routine use.
+
+### With `LEGAL_STYLE_GUIDE.md`
+The style guide controls tone, formatting consistency, and expression discipline. The clause library provides the operative substance.
+
+### With `AUDIT_LOGIC.md`
+Audit logic preserves what clause version was used, why it was chosen, what was rejected, what fallback was offered, and what assumptions applied.
+
+### System rule
+The clause library is an execution asset. It should only be used after the system has:
+- identified the issue
+- identified the business objective
+- assessed risk
+- checked escalation posture
+- determined the correct clause tier
+
+---
+
+## Final Operating Standard
+
+This file succeeds only if it helps Dish N Dash produce clause language that is:
+
+- precise enough to enforce
+- flexible enough to negotiate
+- disciplined enough to stay consistent
+- practical enough to implement
+- protective enough to matter
+- modular enough to reuse
+- honest enough to escalate where needed
+
+That is the standard for the Dish N Dash clause library.
